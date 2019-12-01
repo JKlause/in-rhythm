@@ -39,11 +39,3 @@ Commands:
 
 #### UML
 Link to an image of the UML for your application and response to events
-
-
-1) make function that takes milliseconds and console logs four 'clicks' at that millisecond increment
-2) change parameter to be a bpm
-3) add second parameter that is  millisecond that console logs four 'clicks' at the original bpm plus that millisecond interval after initial increment is finished
-4) convert second paramter to bpm
-5) have function choose faster or slower
-6) function returns 'faster' or 'slower'
